@@ -1,0 +1,24 @@
+* {
+    font-family: "Segoe UI";
+}
+
+h1 {
+    text-align: center;
+    outline: auto;
+    padding: 15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 20px;
+}
+
+button {
+    /* outline: auto; */
+    background-color: greenyellow;
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 20px;
+    border-color: transparent;
+}
+
