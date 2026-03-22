@@ -2,7 +2,6 @@
 
 Mini-project from Odin Project. 
 Repository of two recipes:
-- lasagna.html
 - [Cinnamon Roll Butter Swim Biscuits](recipes/cinnamon_roll_butter_swim_biscuits.html)
 - [Lasagna](recipes/lasagna.html)
 
